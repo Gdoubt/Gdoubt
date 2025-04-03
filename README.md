@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Gdoubt
-- 👀 I’m interested in becoming a web developer or data scientist,
+- 👋 Hi, I’m Gregory Doubt
+- 👀 I’m interested in becoming a web developer or data scientist.
 - 🌱 I’m currently learning python, java.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on n/a
 - 📫 How to reach me on ig @greg_8402
 
 <!---
